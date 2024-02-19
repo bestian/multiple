@@ -9,9 +9,9 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/multiple#readme>
 homepage:       https://github.com/githubuser/multiple#readme
 bug-reports:    https://github.com/githubuser/multiple/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2024 Author name here
+author:         Bestian Tang
+maintainer:     support@bestian.tw
+copyright:      2024 Bestian Tang
 license:        BSD-3-Clause
 license-file:   LICENSE
 build-type:     Simple
