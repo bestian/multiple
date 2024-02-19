@@ -6,11 +6,8 @@ import System.Random
 
 rollDice :: IO Quiz
 rollDice = do x <- getStdRandom (randomR (10,20))
-              return $ Lit x
+              return $ x
 
 rollDice2 :: IO Quiz
 rollDice2 = do x <- getStdRandom (randomR (1,10))
-               return $ Lit x
-
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+               return $ x
